@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "json": "^11.0.0",
+    "json-server": "^1.0.0-beta.3",
+    "server": "^1.0.41"
+  },
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "api": "json-server --watch db.json --port 4000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": ""
+}

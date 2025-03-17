@@ -1,0 +1,19 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "first_name": "firstfasdf",
+      "last_name": "last",
+      "username": "username",
+      "password": "123",
+      "city": "city",
+      "state": "state",
+      "zip": "zip"
+    },
+    {
+      "id": "1d7e",
+      "username": "12",
+      "password": "123"
+    }
+  ]
+}
